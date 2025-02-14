@@ -1,0 +1,9 @@
+﻿  compilation object save succeeded; see C:\Users\Bartek\Desktop\gk\lab2\x64\Debug\Shader_PS.cso
+  compilation object save succeeded; see C:\Users\Bartek\Desktop\gk\lab2\x64\Debug\Shader_VS.cso
+  DX3D.cpp
+C:\Users\Bartek\Desktop\gk\lab2\Tutorial06\DX3D.cpp(223,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab2\Tutorial06\DX3D.cpp(224,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab2\Tutorial06\DX3D.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab2\Tutorial06\DX3D.cpp(646,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab2\Tutorial06\DX3D.cpp(647,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tutorial06_2012.vcxproj -> C:\Users\Bartek\Desktop\gk\lab2\x64\Debug\DX3D.exe

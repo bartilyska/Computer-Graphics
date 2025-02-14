@@ -1,0 +1,4 @@
+﻿  grafika6.cpp
+C:\Users\Bartek\Desktop\gk\lab3\grafika6\grafika6.cpp(441,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Bartek\Desktop\gk\lab3\grafika6\grafika6.cpp(447,21): warning C4305: '+=': truncation from 'double' to 'float'
+  grafika6.vcxproj -> C:\Users\Bartek\Desktop\gk\lab3\grafika6\Debug\grafika6.exe

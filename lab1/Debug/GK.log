@@ -1,0 +1,10 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  GK.cpp
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(167,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(168,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(176,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(177,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(198,28): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Bartek\Desktop\gk\lab1\GK.cpp(224,1): warning C4715: 'WndProc': not all control paths return a value
+  GK.vcxproj -> C:\Users\Bartek\Desktop\gk\lab1\Debug\GK.exe
